@@ -66,7 +66,7 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=oorellana95&row=2&column=3&margin-h=0&theme=darkhub&count_private=true&no-frame=true" alt="profile trophies" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorellana95&theme=monokai&card_width=380&hide_border=true&theme=dark" alt="current streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorellana95&theme=monokai&card_width=380&hide_border=true&background=0d1117&theme=dark" alt="current streak" />
 </div>
 
 ## 🔰 Last badges
