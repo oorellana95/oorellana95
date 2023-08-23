@@ -2,11 +2,12 @@
 
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/oscar-orellana-15535b16a/) [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/oorellana95) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:col.oscar.orellana@gmail.com) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oorellana95/)
+
 ## 🚀 About Me
 
-🎓 I am Oscar Orellana, a **Software Development Engineer**, specialized in **Python Applications** but versed in Kotlin, Java, Javascript, React and **Cloud Services**. I am graduated in **Computer Programming** and **International Business Economics**.
+🎓 I am Oscar Orellana, a **Software Development Engineer**, specialized in **Python Applications** but versed in Kotlin, Java, Javascript and React. I am graduated in **Computer Programming** and **International Business Economics**.
 
-👨‍💻 I enjoy programming and all related fields such as Cloud Computing, Data and ML/AI. I always try to go to **GDG & Meetup Events** related with the sector. On the other hand, I use to **mentor colleagues** about the correct uses of OOP and Clean Practices. I also **tutored classmates** from both of my degrees in programming subjects.
+👨‍💻 I enjoy programming and all related fields such as **Cloud Computing, Data and ML/AI**. I always try to go to **GDG & Meetup Events** related with the sector. Since I love coding, I **tutored classmates** from both of my degrees in programming subjects and I use to **mentor colleagues** about OOP and Clean Practices.
 
 🧘 Outside of tech, I am always looking for new ways to challenge myself and learn new skills. Some of my hobbies include **learning new languages**, **running**, **writing**, **meditation**, **hiking** and **martial arts**.
 
@@ -22,9 +23,9 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 
 ## 🏅 Achievements
 -   🏆 **Top-Rated Exchange Student** for outstanding academic performance and commitment to helping classmates at _Fundaçao Getulio Vargas_ (July 2023)
--   🥋 **1st Dan Black Belt** at _World Taekwondo Federation_ (May 2022)
+-   🥋 **1st Dan Black Belt Recognition** at _World Taekwondo Federation_ (February 2023)
 -   🤝 **One of the Best Team Players** for my commitment to collaboration, communication, and problem-solving _at Smart Supply Chain - SEAT:CODE_ (June 2022)
--   🚀 **GeeksHub Bootcamp FS Developer** at _GeeksHubs Academy_ (November 2020)
+-   🚀 **Bootcamp FS Developer** at _GeeksHubs Academy_ (November 2020)
 -   ⏫ **Rising Talent** at _SEAT S.A_ (July 2019)
 
 
@@ -65,11 +66,9 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=oorellana95&row=2&column=3&margin-h=0&theme=darkhub&count_private=true&no-frame=true" alt="profile trophies" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorellana95&theme=monokai&card_width=380&theme=dark" alt="current streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oorellana95&theme=monokai&card_width=380&hide_border=false&theme=dark" alt="current streak" />
 </div>
 
 ## 🔰 Last badges
-
-
-
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
