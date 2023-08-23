@@ -44,7 +44,7 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![fastapi](https://img.shields.io/badge/fastapi-007a6c?style=for-the-badge&logo=fastapi&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23130654?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Containers, Orquestration & Images
+#### Containers, Orquestration & Images
 ![docker](https://img.shields.io/badge/docker-0073ec?style=for-the-badge&logo=docker&logoColor=white) ![kubernetes](https://img.shields.io/badge/kubernetes-%233371e3?style=for-the-badge&logo=kubernetes&logoColor=white) ![alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) ![node](https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Databases
