@@ -70,5 +70,6 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 </div>
 
 ## 🔰 Last badges
+To see all the other badges are [here](https://www.credly.com/users/oscar-orellana-gonzalez)
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->

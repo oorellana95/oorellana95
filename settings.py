@@ -1,0 +1,10 @@
+README_PATH = 'README.md'
+START_COMMENT = "<!--START_SECTION:badges-->"
+END_COMMENT = "<!--END_SECTION:badges-->"
+LIST_REGEX = f"{START_COMMENT}[\\s\\S]+{END_COMMENT}"
+
+CREDLY_BASE_URL= "http://www.credly.com"
+CREDLY_USER = "oscar-orellana-gonzalez"
+CREDLY_SORT = "RECENT"
+BADGE_SIZE = 110
+NUMBER_LAST_BADGES = 16
