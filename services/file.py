@@ -1,4 +1,3 @@
-
 def get_file(path):
     with open(path, encoding='utf-8') as f:
         readme = f.read()

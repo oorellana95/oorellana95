@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import lxml, requests
+import requests
 
 from settings import CREDLY_SORT, CREDLY_USER, CREDLY_BASE_URL, BADGE_SIZE, NUMBER_LAST_BADGES
 
