@@ -72,6 +72,8 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 ## 🔰 Last badges
 To see all the other badges click [here](https://www.credly.com/users/oscar-orellana-gonzalez)
 <!--START_SECTION:badges-->
+[![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/6910012a-1ca8-48c7-a347-154b4a7d93c3 "AWS Educate Introduction to Cloud 101")
+[![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/c60fff7b-c2ed-4cba-95ca-600679427e09 "AWS Educate Getting Started with Storage")
 [![Hands On Essentials - Data Applications](https://images.credly.com/size/110x110/images/932e3102-58f6-474a-952d-a144b74c98d2/Essentials-Data-Applications_2x.png)](http://www.credly.com/badges/27604bb5-0e6f-42dc-8d1d-b08398f8951c "Hands On Essentials - Data Applications")
 [![Hands On Essentials - Data Warehouse](https://images.credly.com/size/110x110/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png)](http://www.credly.com/badges/01d32859-fa1e-49eb-97e9-303a8fef0240 "Hands On Essentials - Data Warehouse")
 <!--END_SECTION:badges-->
