@@ -72,6 +72,12 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 ## 🔰 Last badges
 To see all the other badges click [here](https://www.credly.com/users/oscar-orellana-gonzalez)
 <!--START_SECTION:badges-->
+[![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](http://www.credly.com/badges/afe3f9fd-9347-480e-840f-26cfd2337103 "AWS Educate Getting Started with Serverless")
+[![AWS Educate Getting Started with Security](https://images.credly.com/size/110x110/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](http://www.credly.com/badges/5d071adf-9783-4b2b-82d8-0fafe1f33397 "AWS Educate Getting Started with Security")
+[![AWS Educate Getting Started with Cloud Ops](https://images.credly.com/size/110x110/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](http://www.credly.com/badges/8421729a-3f29-48be-ae6f-7be548ccd041 "AWS Educate Getting Started with Cloud Ops")
+[![AWS Educate Getting Started with Databases](https://images.credly.com/size/110x110/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](http://www.credly.com/badges/765a7b20-89f7-446e-b207-fb97307d0cc5 "AWS Educate Getting Started with Databases")
+[![AWS Educate Getting Started with Networking](https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](http://www.credly.com/badges/12eb8d91-66c9-407a-80d1-48a5fa23de8c "AWS Educate Getting Started with Networking")
+[![AWS Educate Getting Started with Compute](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/9d3f2dff-cb7f-4bd6-8239-095e5ea09b47 "AWS Educate Getting Started with Compute")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/6910012a-1ca8-48c7-a347-154b4a7d93c3 "AWS Educate Introduction to Cloud 101")
 [![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/c60fff7b-c2ed-4cba-95ca-600679427e09 "AWS Educate Getting Started with Storage")
 [![Hands On Essentials - Data Applications](https://images.credly.com/size/110x110/images/932e3102-58f6-474a-952d-a144b74c98d2/Essentials-Data-Applications_2x.png)](http://www.credly.com/badges/27604bb5-0e6f-42dc-8d1d-b08398f8951c "Hands On Essentials - Data Applications")
