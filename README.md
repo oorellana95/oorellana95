@@ -72,6 +72,7 @@ I currently speak in Spanish, Catalan, English & Portuguese.
 ## 🔰 Last badges
 To see all the other badges click [here](https://www.credly.com/users/oscar-orellana-gonzalez)
 <!--START_SECTION:badges-->
+[![AWS Educate Web Builder](https://images.credly.com/size/110x110/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png)](http://www.credly.com/badges/37d78dd6-7b65-45e6-946d-525febe1a98b "AWS Educate Web Builder")
 [![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](http://www.credly.com/badges/afe3f9fd-9347-480e-840f-26cfd2337103 "AWS Educate Getting Started with Serverless")
 [![AWS Educate Getting Started with Security](https://images.credly.com/size/110x110/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](http://www.credly.com/badges/5d071adf-9783-4b2b-82d8-0fafe1f33397 "AWS Educate Getting Started with Security")
 [![AWS Educate Getting Started with Cloud Ops](https://images.credly.com/size/110x110/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](http://www.credly.com/badges/8421729a-3f29-48be-ae6f-7be548ccd041 "AWS Educate Getting Started with Cloud Ops")
